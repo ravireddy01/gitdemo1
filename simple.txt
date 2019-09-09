@@ -1,0 +1,3 @@
+git is a technology
+github is a tool
+repository is a directory
