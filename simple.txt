@@ -1,3 +1,4 @@
 git is a technology
 github is a tool
 repository is a directory
+github is most useful to share date from local repository to central repository
